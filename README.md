@@ -1,3 +1,3 @@
 # GitHubTutiorial
-This is for learning git
+This is for learning git.
 Author - Abhinav
