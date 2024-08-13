@@ -1,4 +1,6 @@
 # GitHubTutiorial
 This is for learning git.
 <br>
-Author - Abhinav
+
+This is github tutorial
+Author - Abhinav (Itversity)
